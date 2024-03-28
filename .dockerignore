@@ -1,11 +1,11 @@
 /.git
 /.data
 /.cover
+/.tmp
 /dist
 !/dist/dive_linux_amd64
 /ui
-/utils
 /image
-/cmd
 /build
 coverage.txt
+Dockerfile
